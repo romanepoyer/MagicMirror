@@ -17,3 +17,4 @@ Un autre site intéressant : https://www.magicmirrorcentral.com/raspberry-pi-mag
 https://www.magicmirrorcentral.com/complete-raspberry-pi-magic-mirror-tutorial/
 
 ce site detaille les différents accessoires pour raspberry : https://raspbian-france.fr/choisir-accessoires-raspberry-pi-b-plus/
+Nous voulions initialement utiliser un ecran special pour Raspberry, mais nous pensons que ca sera mieux ( plus grand ) avec un ecran d'ordinateur. 
