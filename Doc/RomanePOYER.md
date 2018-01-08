@@ -9,7 +9,7 @@ Nous nous sommes mis d'accord sur le projet suivant : un magicMirror connecté �
     • Séance 2 : Lundi 8 janvier 
     
 J'ai continué à faire des recherches sur le processus de fabrication d'un miroir magique.
-J'ai trouvé un site très interessant qui regoupe un certain nombre de chose sur les miroir migique : https://github.com/MichMich/MagicMirror
+J'ai trouvé un site très interessant qui regoupe un certain nombre de choses sur les miroir migique : https://github.com/MichMich/MagicMirror
 
 J'ai regardé des vidéo qui detaillent sur la conception d'un miroir : https://www.youtube.com/watch?v=fkVBAcvbrjU ; https://www.youtube.com/watch?v=cImZhwbTRuc 
 
