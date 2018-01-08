@@ -12,3 +12,6 @@ J'ai continué à faire des recherches sur le processus de fabrication d'un miro
 J'ai trouvé un site très interessant qui regoupe un certain nombre de chose sur les miroir migique : https://github.com/MichMich/MagicMirror
 
 J'ai regardé des vidéo qui detaillent sur la conception d'un miroir : https://www.youtube.com/watch?v=fkVBAcvbrjU ; https://www.youtube.com/watch?v=cImZhwbTRuc 
+
+Un autre site intéressant : https://www.magicmirrorcentral.com/raspberry-pi-magic-mirror-build-blog/
+https://www.magicmirrorcentral.com/complete-raspberry-pi-magic-mirror-tutorial/
