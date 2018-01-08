@@ -15,3 +15,5 @@ J'ai regardé des vidéo qui detaillent sur la conception d'un miroir : https://
 
 Un autre site intéressant : https://www.magicmirrorcentral.com/raspberry-pi-magic-mirror-build-blog/
 https://www.magicmirrorcentral.com/complete-raspberry-pi-magic-mirror-tutorial/
+
+ce site detaille les différents accessoires pour raspberry : https://raspbian-france.fr/choisir-accessoires-raspberry-pi-b-plus/
