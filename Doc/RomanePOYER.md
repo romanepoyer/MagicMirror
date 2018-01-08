@@ -6,3 +6,9 @@ J'ai trouvé un super trinome avec Théo BARDIN et Thomas ROVERE !
 
 Nous nous sommes mis d'accord sur le projet suivant : un magicMirror connecté à différents appareils tels qu'un pèse personne, une brosse à dents, un calendrier... 
 
+    • Séance 2 : Lundi 8 janvier 
+    
+J'ai continué à faire des recherches sur le processus de fabrication d'un miroir magique.
+J'ai trouvé un site très interessant qui regoupe un certain nombre de chose sur les miroir migique : https://github.com/MichMich/MagicMirror
+
+J'ai regardé des vidéo qui detaillent sur la conception d'un miroir : https://www.youtube.com/watch?v=fkVBAcvbrjU ; https://www.youtube.com/watch?v=cImZhwbTRuc 
