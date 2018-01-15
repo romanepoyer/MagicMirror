@@ -18,3 +18,11 @@ https://www.magicmirrorcentral.com/complete-raspberry-pi-magic-mirror-tutorial/
 
 ce site detaille les différents accessoires pour raspberry : https://raspbian-france.fr/choisir-accessoires-raspberry-pi-b-plus/
 Nous voulions initialement utiliser un ecran special pour Raspberry, mais nous pensons que ca sera mieux ( plus grand ) avec un ecran d'ordinateur. 
+
+        • Séance 3 : Lundi 15 janvier
+
+Nous avons comparé les écrans créés pour Raspberry, mais ils ne dépasent pas 7 pouces, ce qu'on trouve un peu petit. Nous avons donc choisi de prendre un écran d'ordinateur. 
+Nous avons alors deux soucis : l'alimentation de l'ecran se fait sur le secteur, ce qui n'est pas compatible avec un miroir de salle de bain. De plus, il est indiqué de ne pas exposer la raspberry à l'humidité. 
+Nous avons donc choisi d'abandonner l'idée du miroir de salle de bain pour plutot faire un mirroir pouvant se placer dans une entrée, un salon, ou encore une chambre. 
+
+Nous choisissons donc d'en faire un pour une chambre afin de arder l'option du compteur de caleçons. 
