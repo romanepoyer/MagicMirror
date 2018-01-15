@@ -26,3 +26,7 @@ Nous avons alors deux soucis : l'alimentation de l'ecran se fait sur le secteur,
 Nous avons donc choisi d'abandonner l'idée du miroir de salle de bain pour plutot faire un mirroir pouvant se placer dans une entrée, un salon, ou encore une chambre. 
 
 Nous choisissons donc d'en faire un pour une chambre afin de arder l'option du compteur de caleçons. 
+
+Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, il nous faudrait un très grand miroir. On nous a donc conseillé de d'abord faire un petit miroir avec un écran de 7 pouces pour Raspberry pour verifier les fonctionalités, et ensuite d'un construire un plus grand une fois que nous auront compris le fonctionnement su un miroir plus petit. 
+
+
