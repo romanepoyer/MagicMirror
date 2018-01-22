@@ -33,7 +33,7 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
 
         •Séance 4 : Lundi 22 janvier 
       
- Nous avons regardés et ecouté les présentations des autres autres, puis nous avons présentés notre projet.
+ Nous avons regardé et ecouté les présentations des autres autres, puis nous avons présentés notre projet.
  
  
 
