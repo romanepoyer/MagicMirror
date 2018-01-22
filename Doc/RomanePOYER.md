@@ -35,5 +35,9 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
       
  Nous avons regardé et ecouté les présentations des autres autres, puis nous avons présentés notre projet.
  
+ Video intéressante : https://www.youtube.com/watch?v=pcmjht0Hqvw
+ 
+ 
+ 
  
 
