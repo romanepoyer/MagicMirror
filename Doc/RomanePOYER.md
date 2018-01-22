@@ -27,6 +27,13 @@ Nous avons donc choisi d'abandonner l'idée du miroir de salle de bain pour plut
 
 Nous choisissons donc d'en faire un pour une chambre afin de arder l'option du compteur de caleçons. 
 
-Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, il nous faudrait un très grand miroir. On nous a donc conseillé de d'abord faire un petit miroir avec un écran de 7 pouces pour Raspberry pour verifier les fonctionalités, et ensuite d'un construire un plus grand une fois que nous auront compris le fonctionnement su un miroir plus petit. 
+Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, il nous faudrait un très grand miroir. On nous a donc conseillé de d'abord faire un petit miroir avec un écran de 7 pouces pour Raspberry pour verifier les fonctionalités, et ensuite d'un construire un plus grand une fois que nous auront compris le fonctionnement sur un miroir plus petit. 
 
+
+
+        •Séance 4 : Lundi 22 janvier 
+      
+ Nous avons regardés et ecouté les présentations des autres autres, puis nous avons présentés notre projet.
+ 
+ 
 
