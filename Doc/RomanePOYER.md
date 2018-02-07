@@ -38,6 +38,11 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
  Video intéressante : https://www.youtube.com/watch?v=pcmjht0Hqvw
  
  
+        •Séance 5 : Mercredi 7 janvier
+        
+ Nous avons reçu le petit écran, et nous avons essayé de le connecter à la Raspberry. Nous avons pris en main les différents composants. Nous n'avons pas enore réussis à connecetr l'ecran et la raspberry. Nous avons regardé des vidéos tutorielles pour nous aider, mais le problème n'est toujours pas résolu. 
+ 
+ 
  
  
 
