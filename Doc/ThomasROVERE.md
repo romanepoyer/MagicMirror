@@ -1,4 +1,4 @@
-
+7
 # Cahier de suivi du projet de Thomas ROVERE :
     •Séance  1: Lundi 18 décembre :
     
@@ -20,3 +20,7 @@ Après, j'ai lu des tutoriels pour initialiser et connecter une première fois l
 
 Nous avons fait la première présentation orale de notre projet devant la classe, et écouté celle des autres.
 Ensuite, on a continué à finir nos recherches pour tout préparer pour commencer concrétement notre projet à la prochaine séance.
+
+    Séance 5 : mercredi 7 Février :
+
+Nous avons ajourd'hui reçu le matériel : l'écran, la Rasberry et les cables. Nous n'arrivons malheusement pas à connecté l'écran à la Raspberry. On peut connecter l'écran à un ordinateur mais quand on le branche à la Raspberry car il doit avoir un problème d'alimentation. Nous recherchons donc comment réussir à brancher la Raspberry pour pouvoir faire l'instalation du logiciel.
