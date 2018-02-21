@@ -16,4 +16,13 @@
 
 
 * Séance 4 
-  Séance de présentation des projets, écoute et passage. Continuation des discussions sur les bases du projet 
+  
+  Séance de présentation des projets, écoute et passage. Continuation des discussions sur les bases du projet
+  
+  
+* Séance 5
+  
+  Reception de plusieurs composants, dont l'écran, prise en main de l'écran. Essais de connectivité entre raspberry et l'écran mais la raspberry ne marche pas car la carte sd ne marche pas
+  
+* Séance 6
+
