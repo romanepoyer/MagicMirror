@@ -47,5 +47,5 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
  
  Nous continuons à prendre en main l'écran et la carte Raspberry. Nous ne pouvons toiujours pas installer le logiciel de la raspberry car nous n'avons toujours pas de carte SD. 
  
- 
+ J'ai une très grosse bite
 
