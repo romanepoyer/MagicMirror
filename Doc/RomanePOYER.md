@@ -46,5 +46,6 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
         •Séance 6 : Mercredi 21 février
  
  Nous continuons à prendre en main l'écran et la carte Raspberry. Nous ne pouvons toiujours pas installer le logiciel de la raspberry car nous n'avons toujours pas de carte SD. 
- 
+Nous avons finalement acheté une catre SD. Nous commençons à la programmer pour installer notre programme.
+Nous avons réussi à programmer la carte Rasberry et l'ecran, nous avons donc un écran fonctionnel, avec un système d'exploitation. On doit maintenat installer Ubuntu sur la carte Rasberry afin de pouvoir programmer le miroir magique. 
 
