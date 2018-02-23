@@ -26,3 +26,5 @@
   
 * Séance 6
 
+  Achat d'une carte sd 32gb, formattage de cette dernière et installation de l'os sur la Raspberry PI3 
+  Constation du fonctionnement, continuation de la prise en main, à suivre...
