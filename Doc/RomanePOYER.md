@@ -49,3 +49,10 @@ Nous avons fait des mesures, mais compte tenu de la taille de l'écran choisit, 
 Nous avons finalement acheté une catre SD. Nous commençons à la programmer pour installer notre programme.
 Nous avons réussi à programmer la carte Rasberry et l'ecran, nous avons donc un écran fonctionnel, avec un système d'exploitation. On doit maintenat installer Ubuntu sur la carte Rasberry afin de pouvoir programmer le miroir magique. 
 
+        •Séance 7 : Mercredi 21 mars
+        
+Nous continuaons la programmation de la carte Raspberry. 
+
+j'ai commencé à faire des croquis pour la conception du cadre en bois du miroir. Nous avons pensé à une conception rescemblant à celle présentée sur ce site. 
+https://www.demotivateur.fr/atelier/diy-il-fait-d-un-simple-miroir-un-supermiroir-ultra-connecte-10301 
+
