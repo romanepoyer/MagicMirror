@@ -24,3 +24,15 @@ Ensuite, on a continué à finir nos recherches pour tout préparer pour commenc
     Séance 5 : mercredi 7 Février :
 
 Nous avons ajourd'hui reçu le matériel : l'écran, la Rasberry et les cables. Nous n'arrivons malheusement pas à connecté l'écran à la Raspberry. On peut connecter l'écran à un ordinateur mais quand on le branche à la Raspberry car il doit avoir un problème d'alimentation. Nous recherchons donc comment réussir à brancher la Raspberry pour pouvoir faire l'instalation du logiciel.
+
+    Séance 6 : mecredi 21 Février :
+
+Nous sommes allé acheter une carte SD pour qu'on puisse faire l'instalation et l'initialisation de la Rasbperry. 
+Nous avons ensuite fait l'initialisation ce qui nous a permis d'avoir enfin notre écran fonctionnel et commencer la programation de nos fonctionnalités choisies sur l'écran.
+
+    Séance 7 : mercredi 21 Mars :
+
+Nous avons pris les mesures de la vitre pour pouvoir construire le cadre de notre mirroir. Nous avons toutes les mesures faites, et les plans prêts. Nous avons pris rendez-vous au FabLab pour le consuire.
+Nous avons demandé conseille pour le capteur de mouvement (pour détecter une personne et allumer l'écran), un accéléromètre (pour savoir l'orientation que choisira l'utilisateur du mirroir); et un autre accéléromètre pour le compteur de calecon. 
+On a choisit un accéléromètre numérique pour mettre sur la Rasberry (pour l'orientation) et l'autre accéléromètre et le compteur de distance sont en numérique mais on les mettra sur la carte Arduino.
+Nous continuons la programmation sur la Rasberry, pour mettre l'heure actuelle.
