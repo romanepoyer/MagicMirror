@@ -51,7 +51,7 @@ Nous avons réussi à programmer la carte Rasberry et l'ecran, nous avons donc u
 
         •Séance 7 : Mercredi 21 mars
         
-Nous continuons la programmation de la carte Raspberry, mais nous rencontrons de difficultés avec le code pour programmer la carte et l'ecran. 
+Nous continuons la programmation de la carte Raspberry, mais nous rencontrons de difficultés avec le code. 
 
 j'ai commencé à faire des croquis pour la conception du cadre en bois du miroir. Nous avons pensé à une conception rescemblant à celle présentée sur ce site. 
 https://www.demotivateur.fr/atelier/diy-il-fait-d-un-simple-miroir-un-supermiroir-ultra-connecte-10301 
@@ -60,4 +60,9 @@ https://www.demotivateur.fr/atelier/diy-il-fait-d-un-simple-miroir-un-supermiroi
        
  Nous avons fait notre deuxième présentation orale. 
  Nous avons ensuite continué a coder des fonctionalités et fait de recherches pour régler nos différents problèmes. 
+ 
+       • Séance 9 : Jeudi 5 avril
+  
+Nous avons continué les recherches pour coder les différentes fonctionalités du miroir.  
+Nous avons pris rendez-vous au FabLab aujourd'hui pour faire le cadre du miroir. 
 
