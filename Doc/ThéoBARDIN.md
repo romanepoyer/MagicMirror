@@ -1,3 +1,6 @@
+
+![Polytech](http://hydroprotech.polytechnice.fr/jahia/webdav/site/hydroprotech/users/audra/public/Logo%20POLYTECH%20NICE.jpg)
+
 * Séance 1 
   
   voir mail
@@ -22,9 +25,24 @@
   
 * Séance 5
   
-  Reception de plusieurs composants, dont l'écran, prise en main de l'écran. Essais de connectivité entre raspberry et l'écran mais la raspberry ne marche pas car la carte sd ne marche pas
+  Reception de plusieurs composants, dont l'écran, prise en main de l'écran. Essais de connectivité entre raspberry et l'écran           
+  mais la raspberry ne marche pas car la carte sd ne marche pas
   
 * Séance 6
 
   Achat d'une carte sd 32gb, formattage de cette dernière et installation de l'os sur la Raspberry PI3 
   Constation du fonctionnement, continuation de la prise en main, à suivre...
+  
+* Séance 7
+
+  Fin de l'installation de l'os sur la Raspberry. 
+  Début du codage de l'affichage du mirroir (date, heure, compliments, timeline twitter).
+  Début du code en php, a voir dans le futur si ce language est assez puissant et permet de réaliser toutes les fonctionalitées souhaitées 
+  
+  
+* Séance 8 
+  
+  Changement de language de code, passage au javascript afin d'avoir un outil plus puissant qui permet de réaliser de nombreuses 
+  fonctionnalité souhaitées sans inconvénient (heure dynamique sans avoir à rafraichir la page constament 
+
+  
