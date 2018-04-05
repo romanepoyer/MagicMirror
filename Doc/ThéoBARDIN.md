@@ -1,5 +1,5 @@
 
-![Polytech](http://hydroprotech.polytechnice.fr/jahia/webdav/site/hydroprotech/users/audra/public/Logo%20POLYTECH%20NICE.jpg)
+![Polytech](https://www.directetudiant.com/uploads/userfiles/1/image/polytech-nice-une.jpg)
 
 * Séance 1 
   
