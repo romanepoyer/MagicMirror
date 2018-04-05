@@ -1,5 +1,5 @@
 
-![Polytech](https://www.directetudiant.com/uploads/userfiles/1/image/polytech-nice-une.jpg)
+            ![Polytech](https://www.directetudiant.com/uploads/userfiles/1/image/polytech-nice-une.jpg)
 
 * Séance 1 
   
