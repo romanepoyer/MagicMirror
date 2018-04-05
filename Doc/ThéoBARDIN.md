@@ -42,6 +42,9 @@
 * Séance 8 
   
   Changement de language de code, passage au javascript afin d'avoir un outil plus puissant qui permet de réaliser de nombreuses 
-  fonctionnalité souhaitées sans inconvénient (heure dynamique sans avoir à rafraichir la page constament 
+  fonctionnalité souhaitées sans inconvénient (heure dynamique sans avoir à rafraichir la page constament)
+  
+  Avancement du code :
+  
 
   
