@@ -68,7 +68,6 @@ Nous avons pris rendez-vous au FabLab aujourd'hui pour faire le cadre du miroir.
 
 Nous somme aussi allé au FabLab en fin de journée pour fabriquer le miroir : 
 
-<img src="/Doc/image/Conceptionmiroir.png" alt="Photo conception"/>
 
 ![Conception](/Doc/image/Conceptionmiroir.png)
 
