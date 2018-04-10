@@ -8,4 +8,4 @@ Les premières images de notre miroir :
 
 ![Conception](/Doc/image/Conceptionmiroir.png)
 
-![Photo2](/Doc/image/Photo2.png)
+![Photo2](/Doc/image/Photo2.jpg)
