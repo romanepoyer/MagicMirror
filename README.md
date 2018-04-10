@@ -7,3 +7,5 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Les premières images de notre miroir : 
 
 ![Conception](/Doc/image/Conceptionmiroir.png)
+
+![Photo2](/Doc/image/Photo2.png)
