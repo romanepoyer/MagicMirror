@@ -66,3 +66,11 @@ https://www.demotivateur.fr/atelier/diy-il-fait-d-un-simple-miroir-un-supermiroi
 Nous avons continué les recherches pour coder les différentes fonctionalités du miroir.  
 Nous avons pris rendez-vous au FabLab aujourd'hui pour faire le cadre du miroir. 
 
+Nous somme aussi allé au FabLab en fin de journée pour fabriquer le miroir : 
+
+<img src="" alt="Photo conception"/>
+
+        • Séance 10 : mardi 10 avril
+        
+Nous avons fais les premiers test avec l'ecan derriere le miroir et nous avons continué a coder. 
+
