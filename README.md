@@ -3,8 +3,11 @@
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
 # MagicMirror
 
+        • Description de notre projet 
+        
+Nous avons eu l'idée de réaliser un miroir magique à l'aide d'une carte Raspberry d'un écran et d'autres composants électroniques. 
 
-Les premières images de notre miroir : 
+        • Les premières images de notre miroir : 
 
 ![Conception](/Doc/image/Conceptionmiroir.png)
 
