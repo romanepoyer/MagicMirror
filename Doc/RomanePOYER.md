@@ -75,3 +75,11 @@ Nous somme aussi allé au FabLab en fin de journée pour fabriquer le miroir :
         
 Nous avons fais les premiers test avec l'ecan derriere le miroir et nous avons continué a coder. 
 
+        • Séance 11 : vendredi 4 mai
+       
+Nous avons vu les differentes possibilités pour fixer l'ecran, les cables et autres composants derriere le miroir. Nous avons aussi continué le code. 
+
+        • Séance 12 : lundi 14 mai
+        
+Nous avons fixer tous les composants derrière le miroir. Pour cela, nous avons d'abord collé une feuille de papier blanc derière le miroir tout en laissant une ouverture pour l'écran, puis nous avons decoupé une partie du film miroir car le contraste de l'écran ne nous permet pas de le laisser pour avoir une bonnne visibilité. Nous avon ensuite fixé l'écran, la carte Raspberry, ainsi que tous les cables à l'aide de scotch doble face, de scotch et de pate à fixe. Notre miroir est donc fonctionnel d'un point de vue de la visibilité de l'ecran. Nous avons aussi effectué les premier tests de rendu, et cela fonctionne. Nous avons aussi fait des modifictaion du code d'un point de vue esthétique pour un bon rendu surl'écran. 
+
