@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Smart Mirror</title>
+	
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="smartmirror.css">
+	
+	<script type="text/javascript" src="smartmirror.js"></script>
+</head>
+
+<body onload="startTime(); countCalecon(); setCompliments(); fakeReload();">
+
+	<div id="date">
+
+		<p> 
+			<script>
+				setDate();
+			</script>
+		</p>
+	</div>
+
+	<div id='heure'>
+		<center><p id='time'></p></center>
+	</div>	
+	<div id="weather">
+	<a class="weatherwidget-io" href="https://forecast7.com/fr/43d647d01/valbonne/" data-label_1="VALBONNE" data-label_2="WEATHER" data-theme="dark" >VALBONNE WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+	</div>
+	<div class="compliments">
+		<p id='compliment'>			
+		</p>
+		
+	</div>	
+	<div class="count">
+			<p id='nbcal'>
+			</p>
+	</div>
+	<div id="news">
+		<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="80201/"></script>
+	</div>
+
+	
+</body>
+</html>

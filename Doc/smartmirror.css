@@ -1,0 +1,53 @@
+html {
+	background-color: black;
+	margin: none;
+	overflow:hidden;
+
+}
+
+#weather {
+	position: absolute;
+	top: 20px;
+	width: 180px;
+}
+
+#date > p {
+	color: white;
+	font-family: Times New Roman;
+	font-weight: bold;
+	position: absolute;
+	top: 0px; left: 450px;
+	font-size: 35px;
+}
+
+#time {
+	color: white;
+	font-family: Times New Roman;
+	font-weight: bold;
+	position: absolute;
+	top: 0%; left:40%;
+	font-size: 225%;
+
+}
+
+#compliment {
+	color: white;
+	position: absolute;
+	top: 400px; left: 210px;
+	font-family: Times New Roman;
+	font-weight: bold; 
+	font-size: 19px;
+	font-style: italic;
+}
+
+
+#nbcal {
+	color: white;
+	position: absolute;
+	top: 200px; left: 210px;
+}
+
+#news {
+	position: absolute;
+	top:150px; left:410px;
+}
