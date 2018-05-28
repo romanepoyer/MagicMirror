@@ -1,3 +1,4 @@
+
 7
 # Cahier de suivi du projet de Thomas ROVERE :
     •Séance  1: Lundi 18 décembre :
@@ -36,3 +37,24 @@ Nous avons pris les mesures de la vitre pour pouvoir construire le cadre de notr
 Nous avons demandé conseille pour le capteur de mouvement (pour détecter une personne et allumer l'écran), un accéléromètre (pour savoir l'orientation que choisira l'utilisateur du mirroir); et un autre accéléromètre pour le compteur de calecon. 
 On a choisit un accéléromètre numérique pour mettre sur la Rasberry (pour l'orientation) et l'autre accéléromètre et le compteur de distance sont en numérique mais on les mettra sur la carte Arduino.
 Nous continuons la programmation sur la Rasberry, pour mettre l'heure actuelle.
+
+    Séance 8: mercredi 18 Mars :
+
+2ième présentation orale. Et continuité du codage.
+
+    Séance 9 : jeudi 5 Avril :
+
+Montage du cadre support au FabLab ! Après avoir été à Castorama pour acheter le matériel nécéssaire avec M.Masson.
+
+    Séance 10 : mardi 10 Avril :
+
+On a tester l'écran avec notre cadre en bois fini et le filtre sans teint découpé et collé. Et nous travaillons toujours sur le codage Raspberry : fonctions date, info, météo, citations. Egalement fais des recherches pour trouver des citations motivantes.
+
+    Séance 11 : vendredi 4 Mai :
+
+Beaucoup de codage cette séance : certaines fonctions nous posent problèmes et d'autres sont enfin prêtes.
+
+    Séance 12 : lundi 14 Mai :
+
+Fixaxion de tout le support : écran fixé au miroir, papier derrière pour enlever le contre-jour et avoir un meilleur contraste, fixation de tout les cables : montage fini !
+Modification du code HTML : qui créer l'esthétique d'affichage sur l'écran.
