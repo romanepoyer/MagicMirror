@@ -14,6 +14,12 @@ var jour;
 var month;
 
 var base;
+
+//La variable fin permet d'émettre une alerte si il n'y a plus de caleçons dans le tiroir 
+
+var fin=false;
+
+
 function setDate(){
 
 	/*La fonctionnalité .getDay() renvoi 0 pour Dimanche, 1 pour Lundi ... 6 pour Samedi.*/
@@ -63,7 +69,7 @@ function checkZero(i) {
 function setCompliments(){
 	var x = getRndInteger(0, 9);
 	var compliment='';
-	let complo =  document.getElementById("compliment");
+	let complo =  document.getElementById("compliment"); //récupère l'endroit où l'on veut afficher le compliment
 	switch(x) {
 		case 0 :;
 
@@ -98,35 +104,11 @@ function setCompliments(){
 			break;
 	}
 
-	complo.innerHTML=compliment;
+	complo.innerHTML=compliment; //ajoute une valeur "aléatoire" à l'endroit où l'on affiche le compliment 
 }
 
-/*function setComplimentsT(){
-	setInterval(setCompliments, 3000);
-}*/
-
-
-function setMusique(){
-	var x = getRndInteger(0,3);
-	console.log(x);
-	var musique="";
-	switch(x){
-		case 0 :
-			musique = "Right_Now.m4a";
-			break;
-		case 1 :
-			musique = "Highway_to_Hell.m4a";
-			break;
-		case 2 :
-			musique ="Master_Clash.m4a";
-			break;
-	}
-
-
-	var audio = document.getElementById('myAudio');
-	audio.src=musique;
-	audio.play();
-}
+/* Le fameux compteur de caleçons imaginé par Monsieur Thomas Rovere
+   Plusieurs cas s'y distinguent suivant le mois la base de caleçons dans le tiroir est différente*/
 
 function countCalecon(){
 	let nb = document.getElementById('nbcal');
@@ -134,54 +116,115 @@ function countCalecon(){
 	if(m31.indexOf(month)==-1){
 		base = 15;
 		if(jour==15||jour==30){
-			nb.style="color: red; font-weight: bolder;";
-			nb.innerHTML="Nombre de caleçons restant : 0 <br>";
-			nb.innerHTML+="Il faut impérativement faire une machine";
+			nb.style="color: red;  ";
+			nb.innerHTML="Nombre de caleçons restant : 0 <br><br>";
+			nb.innerHTML+="Il faut impérativement <br> faire une machine";
+			fin=true;
 		}
 		else if (jour<15){
 			nb.innerHTML="Nombre de caleçons restant : "+(base-jour);
+			fin=false;
 		}
 		else{
 			nb.innerHTML="Nombre de caleçons restant : "+(2*base-jour);
+			fin=false;
 		}
 	}
 	else if (month==="Février"){
 		base = 14;
 		if(jour==14||jour==28){
-			nb.style="color: red; font-weight: bolder;";
-			nb.innerHTML="Nombre de caleçons restant : 0 <br>";
-			nb.innerHTML+="Il faut impérativement faire une machine";
+			nb.style="color: red;  ";
+			nb.innerHTML="Nombre de caleçons restant : 0 <br><br>";
+			nb.innerHTML+="Il faut impérativement <br> faire une machine";
+			fin=true;
 		}
 		else if (jour<14){
 			nb.innerHTML="Nombre de caleçons restant : "+(base-jour);
+			fin=false;
 		}
 		else {
 			nb.innerHTML="Nombre de caleçons restant : "+(2*base-jour);
+			fin=false;
 		}
 	}
 	else {
 		base = 16;
 		if(jour==16||jour==31){
-			nb.style="color: red; font-weight: bolder;";
-			nb.innerHTML="Nombre de caleçons restant : 0 <br>";
-			nb.innerHTML+="Il faut impérativement faire une machine";
+			nb.style="color: red;";
+			nb.innerHTML="Nombre de caleçons restant : 0 <br><br>";
+			nb.innerHTML+="Il faut impérativement <br> faire une machine";
+			fin=true;
 		}
 		else if(jour <16){
 			nb.innerHTML="Nombre de caleçons restant : "+(base-jour);
+			fin=false;
 		}
 		else {
 			nb.innerHTML="Nombre de caleçons restant : "+(2*base-(jour+1));
+			fin=false;
 		}
 	}
 
 }
+/* Permet de générer un mesagge d'acceuil */
+function acceuil(){
+	var audio = document.getElementById('acceuil');
+	if (!fin){	
+		audio.src="acceuil.mp3";
+	}
+	else {
+		audio.src="calecon.mp3";
+	}
+	audio.play();
+}
+
+function appelAcceuil(){
+	if(!fin){
+		setTimeout(acceuil,0);
+	}
+	else {
+		setTimeout(acceuil, 20000);
+	}
+}
+
+
+function pauseMusique(x){
+	x.pause();
+}
+
+function setMusique(){
+	var x = getRndInteger(0,6);
+	var musique="";
+	if (!fin){
+		musique=x+".mp3";
+	}
+	else {
+		musique="alerte.mp3";
+	}
+
+
+	var audio = document.getElementById('myAudio');
+	audio.src=musique;
+	audio.play();
+	setTimeout(pauseMusique,30000,audio);
+}
+
+function playMusique(){
+	if(!fin){
+		setTimeout(setMusique,10000);
+	}
+	else {
+		setTimeout(setMusique,1);
+	}
+}
+
 
 function Reload(){
 	location.reload(true);
 }
 
 function fakeReload(){
-	setInterval(Reload, 900000);
+	setInterval(Reload, 540000);
 }
 
 function getRndInteger(min, max) {

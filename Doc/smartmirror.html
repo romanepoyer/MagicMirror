@@ -10,7 +10,7 @@
 	<script type="text/javascript" src="smartmirror.js"></script>
 </head>
 
-<body onload="startTime(); countCalecon(); setCompliments(); fakeReload(); setMusique();">
+<body onload="startTime(); countCalecon(); setCompliments(); fakeReload(); playMusique(); appelAcceuil();">
 
 	<div id="date">
 
@@ -34,6 +34,11 @@
 		<p id='compliment'>
 		</p>
 
+	</div>
+	<div>
+		<audio id="acceuil">
+			<source src="" type="audio/mp3">
+		</audio>
 	</div>
 	<div>
 		<audio id="myAudio">
