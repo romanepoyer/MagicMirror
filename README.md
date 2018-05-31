@@ -64,7 +64,7 @@ Dans un deuxième temps, nous avons réalisé le cadre en bois à l’aide de ta
 Nous avons étudié les différentes possibilités pour l’orientation du miroir, compte tenue de la taille du miroir et de celle de l’écran. Nous avons opté pour un miroir en orientation portrait, avec l’écran en bas du cadre. 
 
 
-![Realisation](/Doc/image/Conceptionmiroir.png)
+![Realisation](/Doc/image/Conceptionmiroir.jpg)
 
 
 
@@ -74,7 +74,7 @@ Nous avons ensuite fixé tous les composants électronique à l’arrière de l�
 
 ![derriere](/Doc/image/derriere.jpg)
 
-![image](/Doc/image/photodehors.jpg)
+![image](/Doc/image/dehors.jpg)
 
         • Difficultés
         
