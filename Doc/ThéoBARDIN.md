@@ -53,5 +53,9 @@
    
   Rendez-vous au Fablab pour confectionner le cadre du miroir 
   
+ * Séance 10 vers l'infini et au-delà 
+ 
+  Fin du projet à la maison, plus de séances
+  
 
   
